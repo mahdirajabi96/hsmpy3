@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'hsmpy3',
   packages = ['hsmpy3'],
-  version = '1.3',
+  version = '1.4',
   license='mit',
   description = 'Highway Safety Manual Calculations',
   author = 'Mahdi Rajabi',
