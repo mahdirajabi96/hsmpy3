@@ -10,7 +10,7 @@ setup(
   url = 'https://github.com/mahdirajabi96',
   download_url = 'https://github.com/mahdirajabi96/hsmpy3/archive/v1.3.tar.gz',
   keywords = ['Highway Safety Manual'],
-  install_requires=['arcpy'],
+  install_requires=[],
   classifiers=[
     'Development Status :: 3 - Alpha',      
     'Intended Audience :: Developers', 
