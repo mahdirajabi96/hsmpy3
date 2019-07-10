@@ -8,7 +8,7 @@ setup(
   author = 'Mahdi Rajabi',
   author_email = 'mahdi.rajabi.96@gmail.com',
   url = 'https://github.com/mahdirajabi96',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/mahdirajabi96/hsmpy3/archive/v1.0.tar.gz',
   keywords = ['Highway Safety Manual'],
   install_requires=['arcpy'],
   classifiers=[
